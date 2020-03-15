@@ -17,3 +17,4 @@ TODO:
 * add inter-line html substitutions
 * add styles
 * improve html tags: attributes, p, div, instead of br
+* fix linking on gcloud by adding domain name
